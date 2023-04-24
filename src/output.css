@@ -7332,10 +7332,6 @@ html {
   margin-top: -2rem;
 }
 
-.-mt-96 {
-  margin-top: -24rem;
-}
-
 .mb-10 {
   margin-bottom: 2.5rem;
 }
@@ -8905,11 +8901,6 @@ html {
 .py-4 {
   padding-top: 1rem;
   padding-bottom: 1rem;
-}
-
-.py-40 {
-  padding-top: 10rem;
-  padding-bottom: 10rem;
 }
 
 .py-6 {
