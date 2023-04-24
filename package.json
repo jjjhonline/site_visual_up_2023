@@ -1,0 +1,20 @@
+{
+  "name": "site_visual_up_2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss build src/input.css -o src/output.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.3",
+    "tailwindcss": "^3.3.1"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.0.17",
+    "daisyui": "^2.51.5"
+  }
+}
